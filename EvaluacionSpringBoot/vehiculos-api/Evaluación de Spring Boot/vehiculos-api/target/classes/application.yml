@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: vehiculos-api
+  data:
+    mongodb:
+      uri: mongodb+srv://vehiculos_user:Vehiculos123@inventario.e3nkimy.mongodb.net/vehiculos_db?retryWrites=true&w=majority&appName=inventario
+      database: vehiculos_db
+
+server:
+  port: 8080
+
+logging:
+  level:
+    org.springframework.web: INFO
+    com.miempresa.vehiculosapi: DEBUG
+

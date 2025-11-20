@@ -1,0 +1,14 @@
+D:\DISEÑO DE SOFTWARE\evaluacionSpringboot\vehiculos-api\src\main\java\com\miempresa\vehiculosapi\dto\VehicleDto.java
+D:\DISEÑO DE SOFTWARE\evaluacionSpringboot\vehiculos-api\src\main\java\com\miempresa\vehiculosapi\validation\VehicleYearValidator.java
+D:\DISEÑO DE SOFTWARE\evaluacionSpringboot\vehiculos-api\src\main\java\com\miempresa\vehiculosapi\exception\VehicleNotFoundException.java
+D:\DISEÑO DE SOFTWARE\evaluacionSpringboot\vehiculos-api\src\main\java\com\miempresa\vehiculosapi\exception\GlobalExceptionHandler.java
+D:\DISEÑO DE SOFTWARE\evaluacionSpringboot\vehiculos-api\src\main\java\com\miempresa\vehiculosapi\mapper\VehicleMapper.java
+D:\DISEÑO DE SOFTWARE\evaluacionSpringboot\vehiculos-api\src\main\java\com\miempresa\vehiculosapi\service\impl\VehicleServiceImpl.java
+D:\DISEÑO DE SOFTWARE\evaluacionSpringboot\vehiculos-api\src\main\java\com\miempresa\vehiculosapi\controller\VehicleController.java
+D:\DISEÑO DE SOFTWARE\evaluacionSpringboot\vehiculos-api\src\main\java\com\miempresa\vehiculosapi\validation\VehicleYear.java
+D:\DISEÑO DE SOFTWARE\evaluacionSpringboot\vehiculos-api\src\main\java\com\miempresa\vehiculosapi\repository\VehicleRepository.java
+D:\DISEÑO DE SOFTWARE\evaluacionSpringboot\vehiculos-api\src\main\java\com\miempresa\vehiculosapi\config\OpenApiConfig.java
+D:\DISEÑO DE SOFTWARE\evaluacionSpringboot\vehiculos-api\src\main\java\com\miempresa\vehiculosapi\service\VehicleService.java
+D:\DISEÑO DE SOFTWARE\evaluacionSpringboot\vehiculos-api\src\main\java\com\miempresa\vehiculosapi\VehiculosApiApplication.java
+D:\DISEÑO DE SOFTWARE\evaluacionSpringboot\vehiculos-api\src\main\java\com\miempresa\vehiculosapi\model\Vehicle.java
+D:\DISEÑO DE SOFTWARE\evaluacionSpringboot\vehiculos-api\src\main\java\com\miempresa\vehiculosapi\exception\ApiError.java

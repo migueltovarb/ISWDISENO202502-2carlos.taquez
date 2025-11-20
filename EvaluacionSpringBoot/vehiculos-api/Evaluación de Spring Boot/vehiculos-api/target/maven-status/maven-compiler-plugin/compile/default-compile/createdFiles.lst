@@ -1,0 +1,14 @@
+com\miempresa\vehiculosapi\exception\GlobalExceptionHandler.class
+com\miempresa\vehiculosapi\validation\VehicleYearValidator.class
+com\miempresa\vehiculosapi\dto\VehicleDto.class
+com\miempresa\vehiculosapi\controller\VehicleController.class
+com\miempresa\vehiculosapi\model\Vehicle.class
+com\miempresa\vehiculosapi\exception\VehicleNotFoundException.class
+com\miempresa\vehiculosapi\config\OpenApiConfig.class
+com\miempresa\vehiculosapi\exception\ApiError.class
+com\miempresa\vehiculosapi\service\VehicleService.class
+com\miempresa\vehiculosapi\validation\VehicleYear.class
+com\miempresa\vehiculosapi\mapper\VehicleMapper.class
+com\miempresa\vehiculosapi\repository\VehicleRepository.class
+com\miempresa\vehiculosapi\VehiculosApiApplication.class
+com\miempresa\vehiculosapi\service\impl\VehicleServiceImpl.class
